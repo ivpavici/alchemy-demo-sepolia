@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.7",
     "dotenv": "^16.1.0",
+    "ethereum-waffle": "^4.0.10",
     "hardhat": "^2.14.0"
   },
   "devDependencies": {
